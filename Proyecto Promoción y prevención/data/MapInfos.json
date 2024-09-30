@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"PUEBLO WAYUU","order":1,"parentId":0,"scrollX":1497,"scrollY":865.5},
-{"id":2,"expanded":true,"name":"Casa principal pueblo Wayuu","order":2,"parentId":1,"scrollX":853.7142857142857,"scrollY":494.57142857142856},
+{"id":1,"expanded":true,"name":"PUEBLO WAYUU","order":1,"parentId":0,"scrollX":869,"scrollY":1047},
+{"id":2,"expanded":true,"name":"Casa principal pueblo Wayuu","order":2,"parentId":1,"scrollX":819,"scrollY":448},
 {"id":3,"expanded":true,"name":"Cantina pueblo Wayuu","order":3,"parentId":2,"scrollX":1088.7272727272727,"scrollY":657.8181818181819},
 {"id":4,"expanded":true,"name":"Casa pueblo wayuu 2","order":8,"parentId":1,"scrollX":1497,"scrollY":865.5},
 {"id":5,"expanded":false,"name":"Casa pueblo wayuu 3","order":16,"parentId":24,"scrollX":1088.7272727272727,"scrollY":657.8181818181819},
@@ -16,8 +16,8 @@ null,
 {"id":14,"expanded":true,"name":"Restaurante Bahía Portete","order":27,"parentId":12,"scrollX":1088.7272727272727,"scrollY":657.8181818181819},
 {"id":15,"expanded":true,"name":"Mercado artesanal Wayuu 1","order":14,"parentId":1,"scrollX":1088.7272727272727,"scrollY":657.8181818181819},
 {"id":16,"expanded":true,"name":"mazmorra chivos wayuu","order":23,"parentId":1,"scrollX":1071.2727272727273,"scrollY":1050.5454545454545},
-{"id":17,"expanded":true,"name":"Intro","order":4,"parentId":3,"scrollX":1088,"scrollY":624},
-{"id":18,"expanded":true,"name":"Intro pueblo ","order":5,"parentId":17,"scrollX":1069.0909090909092,"scrollY":849.8181818181819},
+{"id":17,"expanded":false,"name":"Intro","order":4,"parentId":3,"scrollX":1088,"scrollY":440},
+{"id":18,"expanded":true,"name":"Intro pueblo ","order":5,"parentId":17,"scrollX":861,"scrollY":440},
 {"id":19,"expanded":false,"name":"Test Map","order":29,"parentId":12,"scrollX":597.6,"scrollY":333.59999999999997},
 {"id":20,"expanded":true,"name":"Bahía Portete chema","order":28,"parentId":14,"scrollX":1071.2727272727273,"scrollY":782.1818181818182},
 {"id":21,"expanded":false,"name":"mazmorra chivos organizados","order":24,"parentId":16,"scrollX":973.1999999999999,"scrollY":1386.6},
@@ -29,5 +29,5 @@ null,
 {"id":27,"expanded":true,"name":"Pueblo Wayuu Incendiado historia","order":7,"parentId":25,"scrollX":1071.2727272727273,"scrollY":769.0909090909091},
 {"id":28,"expanded":true,"name":"Mazmorra artesanias escapa","order":21,"parentId":26,"scrollX":1069.0909090909092,"scrollY":614.1818181818182},
 {"id":29,"expanded":true,"name":"Mazmorra artesanias final","order":22,"parentId":28,"scrollX":1473,"scrollY":865.5},
-{"id":30,"expanded":false,"name":"Auditorio Universidad","order":30,"parentId":0,"scrollX":811,"scrollY":495}
+{"id":30,"expanded":false,"name":"Auditorio Universidad","order":30,"parentId":0,"scrollX":832,"scrollY":640}
 ]
