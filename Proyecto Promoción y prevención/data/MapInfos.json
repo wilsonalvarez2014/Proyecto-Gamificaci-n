@@ -18,7 +18,7 @@ null,
 {"id":16,"expanded":true,"name":"mazmorra chivos wayuu","order":23,"parentId":1,"scrollX":1216,"scrollY":1052},
 {"id":17,"expanded":false,"name":"Intro","order":4,"parentId":3,"scrollX":1088,"scrollY":624},
 {"id":18,"expanded":true,"name":"Intro pueblo ","order":5,"parentId":17,"scrollX":862,"scrollY":624},
-{"id":19,"expanded":false,"name":"Test Map","order":29,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":19,"expanded":true,"name":"Test Map","order":29,"parentId":12,"scrollX":832,"scrollY":640},
 {"id":20,"expanded":true,"name":"Bahía Portete chema","order":28,"parentId":14,"scrollX":1216,"scrollY":768},
 {"id":21,"expanded":false,"name":"mazmorra chivos organizados","order":24,"parentId":16,"scrollX":1216,"scrollY":1248},
 {"id":22,"expanded":true,"name":"Mazmorra artesanias pelea araña","order":18,"parentId":13,"scrollX":816,"scrollY":672},
@@ -30,6 +30,6 @@ null,
 {"id":28,"expanded":true,"name":"Mazmorra artesanias escapa","order":21,"parentId":26,"scrollX":816,"scrollY":672},
 {"id":29,"expanded":true,"name":"Mazmorra artesanias final","order":22,"parentId":28,"scrollX":816,"scrollY":866},
 {"id":30,"expanded":true,"name":"Auditorio Universidad","order":31,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":31,"expanded":true,"name":"Camino al municipio","order":32,"parentId":30,"scrollX":1088,"scrollY":624},
-{"id":32,"expanded":false,"name":"Cabecera Municipal Santa María","order":30,"parentId":19,"scrollX":1216.5,"scrollY":1248}
+{"id":31,"expanded":true,"name":"Camino al municipio","order":32,"parentId":30,"scrollX":819,"scrollY":440},
+{"id":32,"expanded":false,"name":"Cabecera Municipal Santa María","order":30,"parentId":19,"scrollX":1093,"scrollY":1480}
 ]
